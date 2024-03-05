@@ -1,0 +1,53 @@
+Matriz de Temperaturas:
+Ciudad A, Lunes: [35, 34, 24, 34]
+Ciudad A, Martes: [29, 22, 34, 22]
+Ciudad A, Miércoles: [33, 25, 30, 21]
+Ciudad A, Jueves: [33, 31, 31, 27]
+Ciudad A, Viernes: [27, 30, 33, 31]
+Ciudad A, Sábado: [21, 29, 24, 35]
+Ciudad A, Domingo: [22, 28, 25, 28]
+Ciudad B, Lunes: [34, 31, 31, 24]
+Ciudad B, Martes: [31, 35, 26, 30]
+Ciudad B, Miércoles: [22, 27, 23, 20]
+Ciudad B, Jueves: [30, 25, 27, 21]
+Ciudad B, Viernes: [34, 25, 20, 23]
+Ciudad B, Sábado: [24, 28, 28, 26]
+Ciudad B, Domingo: [35, 31, 29, 30]
+Ciudad C, Lunes: [27, 24, 29, 27]
+Ciudad C, Martes: [35, 32, 31, 29]
+Ciudad C, Miércoles: [34, 23, 30, 26]
+Ciudad C, Jueves: [29, 27, 25, 24]
+Ciudad C, Viernes: [22, 28, 27, 27]
+Ciudad C, Sábado: [22, 30, 30, 35]
+Ciudad C, Domingo: [25, 26, 35, 27]
+Promedio de temperatura en Ciudad A, Lunes: 31.75°C
+Promedio de temperatura en Ciudad A, Martes: 26.75°C
+Promedio de temperatura en Ciudad A, Miércoles: 27.25°C
+Promedio de temperatura en Ciudad A, Jueves: 30.50°C
+Promedio de temperatura en Ciudad A, Viernes: 30.25°C
+Promedio de temperatura en Ciudad A, Sábado: 27.25°C
+Promedio de temperatura en Ciudad A, Domingo: 25.75°C
+Promedio de temperatura en Ciudad A durante la semana: 28.50°C
+
+
+Promedio de temperatura en Ciudad B, Lunes: 30.00°C
+Promedio de temperatura en Ciudad B, Martes: 30.50°C
+Promedio de temperatura en Ciudad B, Miércoles: 23.00°C
+Promedio de temperatura en Ciudad B, Jueves: 25.75°C
+Promedio de temperatura en Ciudad B, Viernes: 25.50°C
+Promedio de temperatura en Ciudad B, Sábado: 26.50°C
+Promedio de temperatura en Ciudad B, Domingo: 31.25°C
+Promedio de temperatura en Ciudad B durante la semana: 27.50°C
+
+
+Promedio de temperatura en Ciudad C, Lunes: 26.75°C
+Promedio de temperatura en Ciudad C, Martes: 31.75°C
+Promedio de temperatura en Ciudad C, Miércoles: 28.25°C
+Promedio de temperatura en Ciudad C, Jueves: 26.25°C
+Promedio de temperatura en Ciudad C, Viernes: 26.00°C
+Promedio de temperatura en Ciudad C, Sábado: 29.25°C
+Promedio de temperatura en Ciudad C, Domingo: 28.25°C
+Promedio de temperatura en Ciudad C durante la semana: 28.07°C
+
+
+>
